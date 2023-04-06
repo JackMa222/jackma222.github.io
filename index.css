@@ -1,0 +1,22 @@
+.b-redirect {
+    height: 100vh;
+}
+
+.placeholder-c {
+    background-color: orange;
+    border-radius: 10px;
+    padding: 20px;
+    width: 500px;
+    max-width: 100%;
+    text-align: center;
+}
+
+.b-redirect a {
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.b-redirect p {
+    margin-bottom: 0;
+}
